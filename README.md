@@ -149,7 +149,7 @@ Call history is a **subcollection under each user**, and every finished call is 
 
 Claude (Anthropic) was used for architecture and tech-stack decisions (Provider + Firebase + ZegoCloud), for writing the structured prompts used to drive AI-assisted implementation of the app and its UI, for turning the approved mockups into a visual design spec, and for this README.
 
-*If a separate AI coding tool (e.g. Cursor, GitHub Copilot, ChatGPT) was used to generate or edit the Dart code itself, name it here — that wasn't run in the same session this document was written in, so it isn't reflected above.*
+Also Used Open Code For coding purposes like i used Muse Spark 1.3 for the programing and setting everything up in the projoct
 
 ---
 

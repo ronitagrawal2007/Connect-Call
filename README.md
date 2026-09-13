@@ -155,11 +155,15 @@ Claude (Anthropic) was used for architecture and tech-stack decisions (Provider 
 
 ## GitHub Link 
 
+https://github.com/ronitagrawal2007/Connect-Call.git
 
 ## App Link
 
+https://drive.google.com/file/d/1JQv50mTqji3LXLEtzT9lZ9cg3P7KSLiT/view?usp=drive_link
+
 
 ## Image 
+
 
 
 ## Video

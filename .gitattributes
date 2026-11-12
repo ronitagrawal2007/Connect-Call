@@ -1,0 +1,10 @@
+﻿# This is a Flutter app - make Dart win the language stats on the repo page.
+*.dart linguist-language=Dart
+
+# Platform folders hold generated native code that otherwise masks Dart.
+android/ linguist-detectable=false
+ios/ linguist-detectable=false
+web/ linguist-detectable=false
+linux/ linguist-detectable=false
+macos/ linguist-detectable=false
+windows/ linguist-detectable=false
